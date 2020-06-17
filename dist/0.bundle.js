@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{355:function(n,t,u){"use strict";function e(n,t){return{value:n*t,type:"MUL"}}function i(n,t,u){return{type:"MUL",value:n*t*u}}u.r(t),u.d(t,"default",(function(){return e})),u.d(t,"multiplicationThree",(function(){return i}))}}]);
+//# sourceMappingURL=0.bundle.js.map

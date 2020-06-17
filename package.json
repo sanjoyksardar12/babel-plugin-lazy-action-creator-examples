@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx webpack-dev-server --mode development --port 10000"
+    "start": "npx webpack-dev-server --mode development --port 10000",
+    "build": "npx webpack -p"
+
   },
   "keywords": [],
   "author": "",
