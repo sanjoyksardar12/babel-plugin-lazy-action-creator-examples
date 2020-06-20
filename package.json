@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx webpack-dev-server --mode development --port 10000"
+    "start": "npx webpack-dev-server --mode development --port 10000",
+    "build": "npx webpack -p"
   },
   "keywords": [],
   "author": "",
@@ -18,7 +19,7 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.2",
-    "babel-plugin-lazy-action-creator": "^1.0.1",
+    "babel-plugin-lazy-action-creator": "^1.0.3",
     "css-loader": "^1.0.0",
     "nodemon": "^2.0.4",
     "style-loader": "^0.23.0",
