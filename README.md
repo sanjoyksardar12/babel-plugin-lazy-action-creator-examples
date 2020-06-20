@@ -1,1 +1,1 @@
-# babel-plugin-lazy-action-creator-examples
+# babel-plugin-lazy-action-creator examples
